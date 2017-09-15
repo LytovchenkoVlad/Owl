@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 6f68be1c52a4cd9449fba02e24a378ba
+timeCreated: 1503470430
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: touchWithWall_0
+    21300002: touchWithWall_1
+    21300004: touchWithWall_2
+    21300006: touchWithWall_3
+    21300008: touchWithWall_4
+    21300010: touchWithWall_5
+    21300012: touchWithWall_6
+    21300014: touchWithWall_7
+    21300016: touchWithWall_8
+    21300018: touchWithWall_9
+    21300020: touchWithWall_10
+    21300022: touchWithWall_11
+    21300024: touchWithWall_12
+    21300026: touchWithWall_13
+    21300028: touchWithWall_14
+    21300030: touchWithWall_15
+    21300032: touchWithWall_16
+    21300034: touchWithWall_17
+    21300036: touchWithWall_18
+    21300038: touchWithWall_19
+    21300040: touchWithWall_20
+    21300042: touchWithWall_21
+    21300044: touchWithWall_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: touchWithWall_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: .542581201, y: .526613593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: touchWithWall_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
