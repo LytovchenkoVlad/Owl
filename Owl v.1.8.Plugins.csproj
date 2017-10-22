@@ -5,16 +5,16 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{B5BD4BBB-D403-ED03-9149-E1DF83EF5804}</ProjectGuid>
+    <ProjectGuid>{FF33A57A-4988-A377-24BD-BA7FD03E5FCC}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
-    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityProjectType>GamePlugins:3</UnityProjectType>
     <UnityBuildTarget>Android:13</UnityBuildTarget>
     <UnityVersion>5.2.1f1</UnityVersion>
     <RootNamespace></RootNamespace>
@@ -52,17 +52,11 @@
     <Reference Include="UnityEngine">
       <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Analytics">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
@@ -75,23 +69,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\COntrollButton.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\DestroyForce.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\EnemyControll.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\FireBallMove.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\Hero.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\RootLevel1.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\Test.cs" />
-    <Compile Include="Assets\Scripts\1 LVL\UIControll.cs" />
-    <Compile Include="Assets\Scripts\2 LXL\EnemyBeast.cs" />
-    <Compile Include="Assets\Scripts\2 LXL\Hero2.cs" />
-    <Compile Include="Assets\Scripts\2 LXL\MovingCamera.cs" />
-    <Compile Include="Assets\Scripts\3 LVL\Hero3.cs" />
-    <Compile Include="Assets\Scripts\3 LVL\MovinCam3.cs" />
-    <Compile Include="Assets\Scripts\3 LVL\WallEnemy.cs" />
-    <Compile Include="Assets\Scripts\Menu\ChoiseLVL.cs" />
-    <Compile Include="Assets\Scripts\Menu\Menu.cs" />
-    <Compile Include="Assets\Scripts\Menu\Victory.cs" />
+    <Compile Include="Assets\Plugins\Standalone Multi-Touch Input Module\StandaloneMultiTouchInputModule.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Plugins\Standalone Multi-Touch Input Module\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
